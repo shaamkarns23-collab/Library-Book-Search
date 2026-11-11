@@ -1,0 +1,102 @@
+[
+  {
+    "isbn": "9780132350884",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "category": "Software Engineering",
+    "year": 2008,
+    "rating": 4.7,
+    "total_copies": 4,
+    "available_copies": 4
+  },
+  {
+    "isbn": "9780201633610",
+    "title": "Design Patterns",
+    "author": "Erich Gamma",
+    "category": "Software Engineering",
+    "year": 1994,
+    "rating": 4.6,
+    "total_copies": 3,
+    "available_copies": 3
+  },
+  {
+    "isbn": "9780131103627",
+    "title": "The C Programming Language",
+    "author": "Brian Kernighan",
+    "category": "Programming",
+    "year": 1988,
+    "rating": 4.5,
+    "total_copies": 3,
+    "available_copies": 3
+  },
+  {
+    "isbn": "9780262033848",
+    "title": "Introduction to Algorithms",
+    "author": "Thomas Cormen",
+    "category": "Algorithms",
+    "year": 2022,
+    "rating": 4.8,
+    "total_copies": 2,
+    "available_copies": 2
+  },
+  {
+    "isbn": "9781492056355",
+    "title": "Fluent Python",
+    "author": "Luciano Ramalho",
+    "category": "Programming",
+    "year": 2022,
+    "rating": 4.6,
+    "total_copies": 2,
+    "available_copies": 2
+  },
+  {
+    "isbn": "9780134685991",
+    "title": "Effective Java",
+    "author": "Joshua Bloch",
+    "category": "Programming",
+    "year": 2018,
+    "rating": 4.7,
+    "total_copies": 2,
+    "available_copies": 2
+  },
+  {
+    "isbn": "9780262046305",
+    "title": "Machine Learning",
+    "author": "Ethem Alpaydin",
+    "category": "Artificial Intelligence",
+    "year": 2020,
+    "rating": 4.2,
+    "total_copies": 2,
+    "available_copies": 2
+  },
+  {
+    "isbn": "9780135957059",
+    "title": "Artificial Intelligence: A Modern Approach",
+    "author": "Stuart Russell",
+    "category": "Artificial Intelligence",
+    "year": 2021,
+    "rating": 4.6,
+    "total_copies": 2,
+    "available_copies": 2
+  },
+  {
+    "isbn": "9780262033849",
+    "title": "Introduction to Information Retrieval",
+    "author": "Christopher Manning",
+    "category": "Data Science",
+    "year": 2008,
+    "rating": 4.3,
+    "total_copies": 2,
+    "available_copies": 2
+  },
+  {
+    "isbn": "9781491912058",
+    "title": "Python for Data Analysis",
+    "author": "Wes McKinney",
+    "category": "Data Science",
+    "year": 2022,
+    "rating": 4.5,
+    "total_copies": 3,
+    "available_copies": 3
+  }
+]
